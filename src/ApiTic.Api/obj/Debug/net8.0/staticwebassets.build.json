@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xzIkyRDrOayGFAWQF+Vt4kW4rfG8knaHzr6plE88ccg=",
+  "Source": "ApiTic.Api",
+  "BasePath": "_content/ApiTic.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

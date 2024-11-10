@@ -1,0 +1,918 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\mappping\\clientemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\mappping\\clientemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\context\\meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\context\\meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\validations\\clientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\validations\\clientevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\apitic.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\apitic.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\apitic.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\apitic.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\validations\\pedidovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\validations\\pedidovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\validations\\produtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\validations\\produtovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\dto\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\models\\enums\\estatuspedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\models\\enums\\estatuspedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\controllers\\tipodeprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\controllers\\tipodeprodutocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\repository\\tipodeprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\repository\\tipodeprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\itipodeprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\itipodeprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\itipodeprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\itipodeprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\repository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\dto\\tipodeprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\dto\\tipodeprodutodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\models\\tipodeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\models\\tipodeproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\services\\tipodeprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\services\\tipodeprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\repository\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\repository\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0194672C-7010-4090-8A47-BF0D5D19A59B}|src\\ApiTic.Api\\ApiTic.Api.csproj|solutionrelative:src\\apitic.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\mappping\\tipodeprodutomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\mappping\\tipodeprodutomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\mappping\\produtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\mappping\\produtomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\mappping\\pedidomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\mappping\\pedidomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\apitic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\apitic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\notifica\u00E7\u00F5es\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\notifica\u00E7\u00F5es\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\interfaces\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\interfaces\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\notifica\u00E7\u00F5es\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\notifica\u00E7\u00F5es\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.business\\validations\\tipodeprodutovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9099CA52-B79B-4FCA-BF07-DC61A20A6741}|src\\ApiTic.Business\\ApiTic.Business.csproj|solutionrelative:src\\apitic.business\\validations\\tipodeprodutovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|c:\\users\\carva\\onedrive\\documentos\\estudos\\tic36\\apitic\\src\\apitic.data\\migrations\\20241103011736_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37214600-9E2F-432C-91C3-D8F260FA1828}|src\\ApiTic.Data\\ApiTic.Data.csproj|solutionrelative:src\\apitic.data\\migrations\\20241103011736_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Configurations\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:31:00.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiTic.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\ApiTic.Api.csproj",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\ApiTic.Api.csproj",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\ApiTic.Api.csproj",
+              "RelativeToolTip": "src\\ApiTic.Api\\ApiTic.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T01:12:53.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\ClienteService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Services\\ClienteService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:33:17.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteValidation.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\ClienteValidation.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Validations\\ClienteValidation.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\ClienteValidation.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Validations\\ClienteValidation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:54:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Context\\MeuDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Context\\MeuDbContext.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Context\\MeuDbContext.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Context\\MeuDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:04:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteMapping.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\ClienteMapping.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Mappping\\ClienteMapping.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\ClienteMapping.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Mappping\\ClienteMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:19:07.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Repository\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:48:42.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutomapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Configurations\\AutomapperConfig.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Configurations\\AutomapperConfig.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Configurations\\AutomapperConfig.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Configurations\\AutomapperConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:02:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Program.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:05:52.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiTic.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\ApiTic.Business.csproj",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\ApiTic.Business.csproj",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\ApiTic.Business.csproj",
+              "RelativeToolTip": "src\\ApiTic.Business\\ApiTic.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T00:35:45.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\PedidoValidation.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Validations\\PedidoValidation.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\PedidoValidation.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Validations\\PedidoValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:04:54.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\ProdutoValidation.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Validations\\ProdutoValidation.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\ProdutoValidation.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Validations\\ProdutoValidation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:09:07.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Dto\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\PedidoDto.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Dto\\PedidoDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:10:09.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EStatusPedido.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Enums\\EStatusPedido.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Models\\Enums\\EStatusPedido.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Enums\\EStatusPedido.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Models\\Enums\\EStatusPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:46:22.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:18:03.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoDeProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\TipoDeProdutoController.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Controllers\\TipoDeProdutoController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\TipoDeProdutoController.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Controllers\\TipoDeProdutoController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:51:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\ProdutoDto.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Dto\\ProdutoDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\ProdutoDto.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Dto\\ProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:05:26.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:21:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:19:07.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TipoDeProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\TipoDeProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Repository\\TipoDeProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\TipoDeProdutoRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Repository\\TipoDeProdutoRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:29:12.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITipoDeProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:20:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITipoDeProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\ITipoDeProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:23:37.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:20:29.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:08:33.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Repository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\ProdutoRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Repository\\ProdutoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T14:32:25.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:27:56.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:46:33.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IPedidoService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IPedidoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:28:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TipoDeProdutoDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\TipoDeProdutoDto.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Dto\\TipoDeProdutoDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\TipoDeProdutoDto.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Dto\\TipoDeProdutoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:00:33.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\Dto\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\Dto\\ClienteDto.cs",
+              "RelativeToolTip": "src\\ApiTic.Api\\Dto\\ClienteDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:08:54.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Produto.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Models\\Produto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:38:22.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TipoDeProduto.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\TipoDeProduto.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Models\\TipoDeProduto.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\TipoDeProduto.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Models\\TipoDeProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:42:01.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TipoDeProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\TipoDeProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Services\\TipoDeProdutoService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\TipoDeProdutoService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Services\\TipoDeProdutoService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:36:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Repository\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Repository\\PedidoRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Repository\\PedidoRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:13:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:53:05.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\PedidoService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:56:37.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IClienteRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IClienteRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IClienteRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IClienteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:13:17.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:26:02.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IProdutoService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IProdutoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:26:40.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Services\\BaseService.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:32:40.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Pedido.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:43:14.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:31:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Cliente.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:44:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Models\\Entity.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Models\\Entity.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Models\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:36:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20241103011736_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Migrations\\20241103011736_Inicial.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Migrations\\20241103011736_Inicial.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Migrations\\20241103011736_Inicial.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Migrations\\20241103011736_Inicial.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T01:17:36.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ApiTic.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Api\\appsettings.json",
+              "RelativeToolTip": "src\\ApiTic.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T01:03:40.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProdutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\ProdutoMapping.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Mappping\\ProdutoMapping.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\ProdutoMapping.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Mappping\\ProdutoMapping.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:22:13.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TipoDeProdutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\TipoDeProdutoMapping.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Mappping\\TipoDeProdutoMapping.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\TipoDeProdutoMapping.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Mappping\\TipoDeProdutoMapping.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:21:15.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PedidoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\PedidoMapping.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\Mappping\\PedidoMapping.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\Mappping\\PedidoMapping.cs",
+              "RelativeToolTip": "src\\ApiTic.Data\\Mappping\\PedidoMapping.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvwoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:23:33.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ApiTic.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\ApiTic.Data.csproj",
+              "RelativeDocumentMoniker": "src\\ApiTic.Data\\ApiTic.Data.csproj",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Data\\ApiTic.Data.csproj",
+              "RelativeToolTip": "src\\ApiTic.Data\\ApiTic.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T23:14:15.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificador.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificador.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificador.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:19:50.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\INotificador.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Interfaces\\INotificador.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Interfaces\\INotificador.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Interfaces\\INotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:17:42.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificacao.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificacao.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificacao.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Notifica\u00E7\u00F5es\\Notificacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T23:15:41.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TipoDeProdutoValidation.cs",
+              "DocumentMoniker": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\TipoDeProdutoValidation.cs",
+              "RelativeDocumentMoniker": "src\\ApiTic.Business\\Validations\\TipoDeProdutoValidation.cs",
+              "ToolTip": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\Validations\\TipoDeProdutoValidation.cs",
+              "RelativeToolTip": "src\\ApiTic.Business\\Validations\\TipoDeProdutoValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:12:05.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

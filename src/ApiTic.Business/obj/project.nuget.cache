@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D+Dwhy10Rzg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carva\\OneDrive\\Documentos\\Estudos\\Tic36\\ApiTic\\src\\ApiTic.Business\\ApiTic.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carva\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

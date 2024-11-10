@@ -1,0 +1,17 @@
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\bin\Debug\net8.0\ApiTic.Data.deps.json
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\bin\Debug\net8.0\ApiTic.Data.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\bin\Debug\net8.0\ApiTic.Data.pdb
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.AssemblyInfoInputs.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.AssemblyInfo.cs
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.csproj.CoreCompileInputs.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\refint\ApiTic.Data.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.pdb
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ref\ApiTic.Data.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\bin\Debug\net8.0\ApiTic.Data.runtimeconfig.json
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\bin\Debug\net8.0\ApiTic.Business.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\bin\Debug\net8.0\ApiTic.Business.pdb
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.D.855795BD.Up2Date
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Data\obj\Debug\net8.0\ApiTic.Data.genruntimeconfig.cache

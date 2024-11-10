@@ -1,0 +1,12 @@
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.csproj.AssemblyReference.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.AssemblyInfoInputs.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.AssemblyInfo.cs
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.csproj.CoreCompileInputs.cache
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\bin\Debug\net8.0\ApiTic.Business.deps.json
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\bin\Debug\net8.0\ApiTic.Business.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\bin\Debug\net8.0\ApiTic.Business.pdb
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\refint\ApiTic.Business.dll
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ApiTic.Business.pdb
+C:\Users\carva\OneDrive\Documentos\Estudos\Tic36\ApiTic\src\ApiTic.Business\obj\Debug\net8.0\ref\ApiTic.Business.dll
